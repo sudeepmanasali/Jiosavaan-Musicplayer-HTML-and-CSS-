@@ -1,0 +1,14 @@
+Visit:
+https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+
+download all the files 
+And place all the files in assets folder
+
+
+Add three links to HTML page  head section 
+
+    <!-- Font-awesome Icons  -->
+    <link href="assets/fontawesome-free-5.15.3-web/css/fontawesome.css" rel="stylesheet">
+    <link href="assets/fontawesome-free-5.15.3-web/css/brands.css" rel="stylesheet">
+    <link href="assets/fontawesome-free-5.15.3-web/css/solid.css" rel="stylesheet">
+    
